@@ -4,7 +4,7 @@ This project was done in the context of a Hackathon and aims to help 2 people/gr
 
 This guide works with questions throughout the night, as a meeting point for the group in case something goes wrong and even an SOS button, and other questions.
 
-This repository is back-end only, so there's no visual part of the site in it. As soon as possible, I'll put the link to the Front End repository.
+This repository is back-end only, here is the link of the front-end project -> https://github.com/MiguelGuimaraes37/NightofOzManager_FrontEnd.git.
 
 Anyway, here's an image of the front end to satisfy your curiosity:
 
